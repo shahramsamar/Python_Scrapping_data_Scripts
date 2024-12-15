@@ -59,3 +59,4 @@ Contributions are welcome! If you’d like to add new scripts or improve existin
 ## License
 
 This project is open-source and available for educational purposes. Be mindful of websites' terms of service when scraping data.
+![Alt](https://repobeats.axiom.co/api/embed/eabe6508a91fa38b4ace0060919094363916f544.svg "Repobeats analytics image")
